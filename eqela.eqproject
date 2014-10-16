@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# GameMonster2
+#
+
+projectname: GameMonster2
+vendorid: com.GameMonster2.mycompany
+mainmodule: com.GameMonster2.mycompany.gamemonster2
